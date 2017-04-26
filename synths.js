@@ -18,6 +18,21 @@ export const synths = [
     name: 'Behringer DeepMind 12'
   },
   {
+	name: 'Casio CZ-1'
+  },
+  {
+	name: 'Casio CZ-101'
+  },
+  {
+	name: 'Casio CZ-1000'
+  },
+  {
+	name: 'Casio CZ-3000'
+  },
+  {
+	name: 'Casio CZ-5000'
+  },
+  {
     name: 'DSI Mopho x4'
   },
   {
@@ -36,10 +51,49 @@ export const synths = [
     name: 'Sequential Prophet 6'
   },
   {
+    name: 'Sequential Six Trak'
+  },
+  {
     name: 'Elektron Analog Four'
   },
   {
     name: 'Elektron Analog Keys'
+  },
+  {
+	name: 'Ensoniq ESQ-1'
+  },
+  {
+	name: 'Ensoniq Fizmo'
+  },
+  {
+	name: 'Ensoniq SQ-80'
+  },
+  {
+	name: 'Ensoniq VFX'
+  },
+  {
+	name: 'Ensoniq VFX-SD'
+  },
+  {
+	name: 'Kawai K1'
+  },
+  {
+	name: 'Kawai K2'
+  },
+  {
+	name: 'Kawai K3'
+  },
+  {
+	name: 'Kawai K4'
+  },
+  {
+	name: 'Kawai K5'
+  },
+  {
+	name: 'Korg DSS-1'
+  },
+  {
+	name: 'Korg DW-8000'
   },
   {
     name: 'Korg Electribe'
@@ -78,10 +132,13 @@ export const synths = [
     name: 'Modal 001'
   },
   {
+    name: 'Modal 002'
+  },
+  {
     name: 'Modal 008'
   },
   {
-    name: 'Moog Minimoog Modal D'
+    name: 'Moog Minimoog Model D'
   },
   {
     name: 'Moog Minimoog Voyager XL'
@@ -129,6 +186,15 @@ export const synths = [
     name: 'Novation UltraNova'
   },
   {
+    name: 'Oberheim Matrix-1000'
+  },
+  {
+    name: 'Oberheim Matrix-12'
+  },
+  {
+    name: 'Oberheim Matrix-6'
+  },
+  {
     name: 'Pioneer DJ Toraiz AS-1'
   },
   {
@@ -153,6 +219,9 @@ export const synths = [
     name: 'Roland JD-Xi'
   },
   {
+    name: 'Roland Juno-106'
+  },
+  {
     name: 'Roland JUNO DS61'
   },
   {
@@ -160,6 +229,15 @@ export const synths = [
   },
   {
     name: 'Roland Jupiter-80'
+  },
+  {
+    name: 'Roland JX-3P'
+  },
+  {
+    name: 'Roland JX-8P'
+  },
+  {
+    name: 'Roland JX-10'
   },
   {
     name: 'Roland System-1'
@@ -202,6 +280,9 @@ export const synths = [
   },
   {
     name: 'Yamaha DX-7'
+  },
+  {
+    name: 'Yamaha SY-77'
   },
   {
     name: 'U-he Diva'
